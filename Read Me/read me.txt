@@ -1,0 +1,11 @@
+Hii this is a retail store chat bot built using python
+Reqirements:
+1: pytourch : pip install torch
+2: NLTK : pip install nltk and nltk.download('punkt')
+3: Flask : pip install flask
+4: pyspellchecker : pip install pyspellchecker
+5: XAMPP:
+6: import the stock.sql in your php my admin.
+7: After all the requirement are downloaded and completed you can run the application by running app.py 
+
+
